@@ -1,0 +1,21 @@
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.exe.config
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.exe
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.pdb
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.AssemblyReference.cache
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.Form1.resources
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.Properties.Resources.resources
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.GenerateResource.cache
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.CoreCompileInputs.cache
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.exe
+C:\Users\maks\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.pdb
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.AssemblyReference.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.SuggestedBindingRedirects.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.Form1.resources
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.Properties.Resources.resources
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.GenerateResource.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.csproj.CoreCompileInputs.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.exe
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\obj\Debug\GameTrain.pdb
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.exe.config
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.exe
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\GameTrain\bin\Debug\GameTrain.pdb
